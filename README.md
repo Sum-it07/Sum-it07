@@ -1,19 +1,25 @@
 
 # Sumit's Profile
-___
-<p align="center"><span style="font-size:larger;"><strong>HI 👋, I AM SUMIT</strong></span></p>
 
----
+Hi, I'm Sumit! 👋 I'm passionate about web development and Machine Learning.
 
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
-  
+## Skills
+
+- HTML/CSS
+- Bootstrap
+- JavaScript
+- Python
+- C
+
 ## Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/sumit-shrestha-700b652a3)
-- Email: sumitstha2060@gmail.com
+- [linkedIn:] https://www.linkedin.com/in/sumit-shrestha-700b652a3
+- [Email:] sumitstha2060@gmail.com
+
+## Interests
+
+- Reading Books
+- Playing Video Games
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sum-it07&layout=compact)
