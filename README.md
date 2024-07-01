@@ -23,6 +23,8 @@ Hi, I'm Sumit! 👋 I'm passionate about web development and Machine Learning.
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sum-it07&layout=compact)
+![LeetCode](https://img.shields.io/badge/LeetCode-Sumit_Shrestha-brightgreen)
+
 ___
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sum-it07)](https://github.com/Sum-it07/github-profile-trophy)
 
