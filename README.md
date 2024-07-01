@@ -1,3 +1,4 @@
+<p align="center"><strong>HI, I AM SUMIT</strong></p>
 - 👋 Hi, I’m @Sum-it07
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
