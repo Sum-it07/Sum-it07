@@ -1,13 +1,19 @@
 
-<p align="center"><span style="font-size:larger;"><strong>HI 👋, I AM SUMIT</strong></span></p>
+# Sumit's Profile
 ___
+<p align="center"><span style="font-size:larger;"><strong>HI 👋, I AM SUMIT</strong></span></p>
+
+---
 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+  
+## Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/sumit-shrestha-700b652a3)
+- Email: sumitstha2060@gmail.com
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sum-it07&layout=compact)
