@@ -1,6 +1,7 @@
 
 <p align="center"><span style="font-size:larger;"><strong>HI 👋, I AM SUMIT</strong></span></p>
----
+___
+
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
