@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Me:
 Hi, I'm Sumit! 👋<br>I'm passionate about web development and Machine Learning.<br>Astronauts grow taller in space!
 
 
