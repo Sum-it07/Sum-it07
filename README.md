@@ -54,7 +54,7 @@ I'm passionate about **Web Development** and **Machine Learning**.
 ![](https://github-profile-trophy.vercel.app/?username=Sum-it07&theme=algolia&no-frame=false&margin-w=6)
 
 ---
-![GitHub Snake](https://github.com/Sum-it07/Sum-it07/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Sum-it07/Sum-it07/output/github-contribution-grid-snake.svg)
 ### 🏔️ Check My 3D GitHub Skyline
 [🌌 View Skyline »](https://skyline.github.com/Sum-it07/2024)
 
