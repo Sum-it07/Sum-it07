@@ -54,19 +54,6 @@ I'm passionate about **Web Development** and **Machine Learning**.
 ![](https://github-profile-trophy.vercel.app/?username=Sum-it07&theme=algolia&no-frame=false&margin-w=6)
 
 ---
-![GitHub Snake](https://raw.githubusercontent.com/Sum-it07/Sum-it07/output/github-contribution-grid-snake.svg)
-### 🏔️ Check My 3D GitHub Skyline
-[🌌 View Skyline »](https://skyline.github.com/Sum-it07/2024)
-
-<a href="https://github.com/Sum-it07">
-  <img src="https://github.devcard.link/Sum-it07" width="400" alt="devcard"/>
-</a>
-
-## 📌 Pinned Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sum-it07&repo=zomato-cost-analysis&theme=neon)](https://github.com/Sum-it07/zomato-cost-analysis)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sum-it07&repo=credit-default-predictor&theme=neon)](https://github.com/Sum-it07/credit-default-predictor)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
