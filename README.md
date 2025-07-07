@@ -55,9 +55,9 @@ I'm passionate about **Web Development** and **Machine Learning**.
 
 ---
 ![GitHub Snake](https://github.com/Sum-it07/Sum-it07/blob/output/github-contribution-grid-snake.svg)
-<a href="https://skyline.github.com/Sum-it07/2024" target="_blank">
-  🏔️ Check my 3D GitHub Skyline
-</a>
+### 🏔️ Check My 3D GitHub Skyline
+[🌌 View Skyline »](https://skyline.github.com/Sum-it07/2024)
+
 <a href="https://github.com/Sum-it07">
   <img src="https://github.devcard.link/Sum-it07" width="400" alt="devcard"/>
 </a>
