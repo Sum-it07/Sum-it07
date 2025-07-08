@@ -41,11 +41,6 @@ I'm passionate about **Web Development** and **Machine Learning**.
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sum-it07&theme=algolia&no-frame=false&margin-w=6)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
