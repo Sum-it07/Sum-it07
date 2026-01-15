@@ -10,9 +10,8 @@ I'm passionate about **Web Development** and **Machine Learning**.
 - 🌱 Currently learning: Neural Networks & Deployment  
 - 🎯 2026 Goal: Build production-ready ML apps  
 - 🧠 I learn by doing, breaking, and building again.
-
----
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-shrestha-700b652a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Sum-it07)
