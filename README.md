@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+</p>
+
 # 💫 About Me:
 Hi, I'm **Sumit**! 👋  
 I'm passionate about **Web Development** and **Machine Learning**.  
