@@ -59,4 +59,6 @@ I'm passionate about **Web Development** and **Machine Learning**.
 
 [![](https://visitcount.itsvg.in/api?id=Sum-it07&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Powered by OpenAI + GPRM + 💻 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</p>
