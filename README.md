@@ -6,7 +6,12 @@
 Hi, I'm **Sumit**! 👋  
 I'm passionate about **Web Development** and **Machine Learning**.  
 > _"Astronauts grow taller in space, and I grow with every new line of code."_ 🚀  
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Engineering+scalable+web+systems;Clean+architecture+over+shortcuts;Performance+with+clarity"
+    alt="Typing animation"
+  />
+</p>
 - 🌱 Currently learning: Neural Networks & Deployment  
 - 🎯 2026 Goal: Build production-ready ML apps  
 - 🧠 I learn by doing, breaking, and building again.
