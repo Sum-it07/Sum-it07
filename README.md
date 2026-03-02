@@ -112,6 +112,11 @@ fun_fact: "I debug better with lo-fi music and cold tea ☕"
 <br>
 
 <!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
+<!-- 
+  🐍 CONTRIBUTION SNAKE — Uncomment the block below AFTER you:
+    1. Push this repo to GitHub (must be named Sum-it07/Sum-it07)
+    2. Go to Actions tab → "Generate Snake" → "Run workflow"
+    3. Wait for the workflow to finish (creates the `output` branch)
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -122,15 +127,14 @@ fun_fact: "I debug better with lo-fi music and cold tea ☕"
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Sum-it07/Sum-it07/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<br>
+-->
 
 <!-- ═══════════════════════════════  TROPHIES  ═══════════════════════════════ -->
 
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sum-it07&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=Sum-it07&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 <br>
