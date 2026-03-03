@@ -112,11 +112,7 @@ fun_fact: "I debug better with lo-fi music and cold tea ☕"
 <br>
 
 <!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
-<!-- 
-  🐍 CONTRIBUTION SNAKE — Uncomment the block below AFTER you:
-    1. Push this repo to GitHub (must be named Sum-it07/Sum-it07)
-    2. Go to Actions tab → "Generate Snake" → "Run workflow"
-    3. Wait for the workflow to finish (creates the `output` branch)
+
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -127,7 +123,6 @@ fun_fact: "I debug better with lo-fi music and cold tea ☕"
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Sum-it07/Sum-it07/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
--->
 
 <!-- ═══════════════════════════════  TROPHIES  ═══════════════════════════════ -->
 
