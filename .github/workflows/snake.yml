@@ -16,19 +16,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake (light)
+      # 🌊 Ocean theme for light mode — cyan snake gliding over deep blue dots
+      - name: Generate snake (light - Ocean theme)
         uses: Platane/snk@v3
         with:
           github_user_name: Sum-it07
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=#00cfff&color_dots=#edf8fb,#b3cde3,#6497b1,#005b96,#03396c
 
-      - name: Generate snake (dark)
+      # 🔮 Cyberpunk theme for dark mode — magenta snake on neon purple grid
+      - name: Generate snake (dark - Cyberpunk theme)
         uses: Platane/snk@v3
         with:
           github_user_name: Sum-it07
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff00ff&color_dots=#0d0d0d,#1a0033,#4b0082,#7f00ff,#bf00ff
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
