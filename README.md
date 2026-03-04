@@ -85,7 +85,6 @@ fun_fact: "I debug better with lo-fi music and cold tea ☕"
 <br>
 
 <!-- ═══════════════════════════════  GITHUB STATS  ═══════════════════════════════ -->
-
 ## 📈 &nbsp;GitHub Analytics
 
 <p align="center">
@@ -94,11 +93,9 @@ fun_fact: "I debug better with lo-fi music and cold tea ☕"
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sum-it07&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sum-it07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com/?user=Sum-it07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </p>
-
 <br>
 
 <!-- ═══════════════════════════════  CONTRIBUTION GRAPH  ═══════════════════════════════ -->
