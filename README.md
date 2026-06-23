@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=180&section=header&text=Sumit%20Shrestha&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=AI%20%26%20ML%20Learner%20%7C%20Full-Stack%20Developer&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Sumit%20Shrestha">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-shrestha-700b652a3/">
