@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=180&section=header&text=Sumit%20Shrestha&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=Web%20Developer%20%7C%20ML%20Enthusiast&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=180&section=header&text=Sumit%20Shrestha&fontColor=58a6ff&fontSize=42&fontAlignY=35&desc=AI%20%26%20ML%20Learner%20%7C%20Full-Stack%20Developer&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9A%80+Engineering+scalable+web+systems;%F0%9F%A7%A0+Training+machines+to+learn;%E2%9A%A1+Performance+with+clarity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=80&lines=%F0%9F%A7%A0+Building+AI-powered+software;%F0%9F%A4%96+Exploring+ML%2C+LLMs+%26+automation;%E2%9A%A1+Turning+web+ideas+into+intelligent+apps" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -25,12 +25,14 @@
 ```yaml
 name: Sumit Shrestha
 located_in: Earth 🌏
-current_focus: Web Development & Machine Learning
-2026_goal: Build production-ready ML apps
-learning: Neural Networks & Deployment
+current_focus: AI, Machine Learning & Intelligent Web Apps
+2026_goal: Build useful AI-powered products
+learning: LLMs, Neural Networks, Model Deployment & MLOps
 motto: "I learn by doing, breaking, and building again."
 fun_fact: "I debug better with lo-fi music and cold tea ☕"
 ```
+
+I began with web development, and lately I've been going deeper into AI: machine learning, LLM-powered tools, automation, and practical systems that make software feel smarter. My current goal is to connect clean web experiences with intelligent features that are actually useful.
 
 <br>
 
@@ -55,7 +57,7 @@ fun_fact: "I debug better with lo-fi music and cold tea ☕"
 </td>
 <td valign="top" width="33%">
 
-### 📊 Data Science & ML
+### 📊 AI, Data Science & ML
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -63,6 +65,8 @@ fun_fact: "I debug better with lo-fi music and cold tea ☕"
   <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-AA4462?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Deployment-00A67E?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 </td>
@@ -74,6 +78,8 @@ fun_fact: "I debug better with lo-fi music and cold tea ☕"
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
