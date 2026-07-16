@@ -24,13 +24,79 @@
 name: Sumit Shrestha
 located_in: Earth 🌏
 current_focus: AI, Machine Learning & Intelligent Web Apps
-2026_goal: Build useful AI-powered products
+research_interests: [LLM agents, RAG systems, applied NLP, explainable AI]
+2026_goal: Pursue a Master's in CS/AI & build useful AI-powered products
 learning: LLMs, Neural Networks, Model Deployment & MLOps
 motto: "I learn by doing, breaking, and building again."
 fun_fact: "I debug better with lo-fi music and cold tea ☕"
 ```
 
-I began with web development, and lately I've been going deeper into AI: machine learning, LLM-powered tools, automation, and practical systems that make software feel smarter. My current goal is to connect clean web experiences with intelligent features that are actually useful.
+I began with web development, and lately I've been going deeper into AI: machine learning, LLM-powered tools, automation, and practical systems that make software feel smarter. My current goal is to connect clean web experiences with intelligent features that are actually useful — with a particular interest in **multi-agent systems, retrieval-augmented generation, and making AI outputs verifiable and explainable**. I'm preparing to pursue graduate studies in Computer Science / AI.
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sumit-shrestha-700b652a3/)
+
+<br>
+
+<!-- ═══════════════════════════════  FEATURED PROJECTS  ═══════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Multi-Agent Research Assistant](https://github.com/Sum-it07/multi-agent-research-assistant)
+A full-stack autonomous research platform where specialized LLM agents (planner, web researcher, document researcher) decompose complex questions, retrieve evidence via **Hybrid RAG**, and validate claims with **adversarial fact-checking** — producing source-backed, verifiable reports.
+
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL + pgvector` `Redis` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [Medical Chatbot using RAG](https://github.com/Sum-it07/Capstone-project-medical-chatbot-using-RAG)
+Capstone project: a retrieval-augmented medical Q&A chatbot grounded in curated medical literature, designed to reduce hallucinations and surface supporting sources for every answer.
+
+`Python` `LangChain` `RAG` `Vector Search` `Jupyter`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 [MindfulRAG — Mental Health Companion](https://github.com/Sum-it07/Mental-Health-Support-Chatbot)
+A multilingual, multimodal (text / voice / image) mental-health support assistant using hybrid retrieval over curated psychoeducational resources — empathetic responses with source attribution, built with safety disclaimers first.
+
+`Python` `Gemini` `LangChain` `ChromaDB` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [Explainable Resume Feedback System](https://github.com/Sum-it07/Resume-Feedback-System)
+A hybrid AI system combining a **skill ontology + rule-based reasoning** with **semantic similarity** (SentenceTransformers) to analyze resumes against job descriptions and produce explainable, human-readable feedback.
+
+`Python` `Knowledge Representation` `SentenceTransformers` `Explainable AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📑 [Text Summarizer & Keyword Extractor](https://github.com/Sum-it07/Text-Summarizer-And-Keyword_Extraction)
+An NLP document assistant that generates extractive summaries and extracts key terms from PDF/DOCX files through an interactive web UI.
+
+`Python` `NLTK` `spaCy` `scikit-learn` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [MLOps Pipeline](https://github.com/Sum-it07/MLOps-Assignment-1)
+End-to-end MLOps workflow demonstrating reproducible training, testing, and deployment practices — structured project layout, experiment tracking, and CI-friendly tooling.
+
+`Python` `MLOps` `CI/CD` `Testing`
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -124,8 +190,8 @@ I began with web development, and lately I've been going deeper into AI: machine
 
 <p align="center">
   <a href="https://github.com/Sum-it07">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sum-it07&theme=github_dark&hide_border=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&ring_color=58a6ff" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sum-it07&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sum-it07&theme=github_dark&hide_border=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&ring_color=58a6ff" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sum-it07&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
   </a>
 </p>
 <p align="center">
