@@ -88,6 +88,37 @@ I began with web development, and lately I've been going deeper into AI: machine
 
 <br>
 
+<!-- ═══════════════════════════════  BADGES & CERTIFICATIONS  ═══════════════════════════════ -->
+
+## 🎖️ &nbsp;Badges & Certifications
+
+<p align="center">
+  <!-- To add a new badge: copy its page URL from Credly (href) and its image address (src), then duplicate an <a> block below -->
+  <a href="https://www.credly.com/badges/e13948d3-6497-4209-a2cd-657787edf018/public_url" title="Artificial Intelligence Fundamentals — IBM SkillsBuild">
+    <img src="https://images.credly.com/size/110x110/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="110" alt="Artificial Intelligence Fundamentals — IBM SkillsBuild" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/543524e7-27a8-48af-920b-726facde1a52/public_url" title="NASA Open Science 101 — NASA Open Science">
+    <img src="https://images.credly.com/size/110x110/images/604d3f13-0f4c-402b-8265-3ecad938435a/blob" width="110" alt="NASA Open Science 101 — NASA Open Science" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/263067e1-c32f-49f3-a39f-62b3cfa75a0c/public_url" title="Engineer AI Agents with Agent Development Kit (ADK) — Google Cloud">
+    <img src="https://images.credly.com/size/110x110/images/000655a5-3837-4c38-b906-2eb9c059ab36/blob" width="110" alt="Engineer AI Agents with Agent Development Kit (ADK) — Google Cloud" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/26a1ff39-4f3f-4cd8-b975-29ad20dda42d/public_url" title="Create Your First Gemini Enterprise Application — Google Cloud">
+    <img src="https://images.credly.com/size/110x110/images/3c923d13-42da-4765-995d-59f3030e042a/blob" width="110" alt="Create Your First Gemini Enterprise Application — Google Cloud" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/551e3268-3f79-46d3-821a-cfef9fdb85b2/public_url" title="Discover and Protect Sensitive Data Across Your Ecosystem — Google Cloud">
+    <img src="https://images.credly.com/size/110x110/images/a380b061-fd3a-4cb4-8835-9efa241a35a5/blob" width="110" alt="Discover and Protect Sensitive Data Across Your Ecosystem — Google Cloud" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/users/sumit-shrestha.8ea303ca">
+    <img src="https://img.shields.io/badge/View%20All%20Badges%20on-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
 <!-- ═══════════════════════════════  GITHUB STATS  ═══════════════════════════════ -->
 ## 📈 &nbsp;GitHub Analytics
 
