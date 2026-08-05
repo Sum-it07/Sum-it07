@@ -25,14 +25,12 @@ name: Sumit Shrestha
 located_in: Earth 🌏
 current_focus: AI, Machine Learning & Intelligent Web Apps
 research_interests: [LLM agents, RAG systems, applied NLP, explainable AI]
-2026_goal: Pursue a Master's in CS/AI & build useful AI-powered products
 learning: LLMs, Neural Networks, Model Deployment & MLOps
 motto: "I learn by doing, breaking, and building again."
 fun_fact: "I debug better with lo-fi music and cold tea ☕"
 ```
 
-I began with web development, and lately I've been going deeper into AI: machine learning, LLM-powered tools, automation, and practical systems that make software feel smarter. My current goal is to connect clean web experiences with intelligent features that are actually useful — with a particular interest in **multi-agent systems, retrieval-augmented generation, and making AI outputs verifiable and explainable**. I'm preparing to pursue graduate studies in Computer Science / AI.
-
+I began with web development, and lately I've been going deeper into AI: machine learning, LLM-powered tools, automation, and practical systems that make software feel smarter. My current goal is to connect clean web experiences with intelligent features that are actually useful — with a particular interest in **multi-agent systems, retrieval-augmented generation, and making AI outputs verifiable and explainable**.
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sumit-shrestha-700b652a3/)
 
 <br>
