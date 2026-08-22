@@ -183,30 +183,6 @@ End-to-end MLOps workflow demonstrating reproducible training, testing, and depl
 
 <br>
 
-<!-- ═══════════════════════════════  GITHUB STATS  ═══════════════════════════════ -->
-## 📈 &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Sum-it07">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sum-it07&theme=github_dark&hide_border=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&ring_color=58a6ff" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sum-it07&theme=github_dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sum-it07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1b27&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-</p>
-<br>
-
-<!-- ═══════════════════════════════  CONTRIBUTION GRAPH  ═══════════════════════════════ -->
-
-## 📊 &nbsp;Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sum-it07&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=1a1b27" width="100%"/>
-</p>
-
-<br>
-
 <!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
 
 
